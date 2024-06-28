@@ -483,6 +483,11 @@ hash = "67a6708514f1adb7cc9d80e23240ef6febe092d324903c197ceba096dfa5fd1b"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "ed55bca0978205f7c60a652fe95c4fed49b9efcac56d2751b993b8cb5355a3d0"
+metafile = true
+
+[[files]]
 file = "mods/hexdebug-fabric-0.2.2+1.19.2.jar"
 hash = "e724c298c5d2e8ff5a696887574b84efae6b8ebf6b17d1a3cadcad5325092d20"
 
