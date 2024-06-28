@@ -502,11 +502,6 @@ hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
 metafile = true
 
 [[files]]
-file = "mods/hexlink.pw.toml"
-hash = "8bc6b316b162f91893a75001969aaa2460bcff43fc1ab092972ecfbdc0609ce3"
-metafile = true
-
-[[files]]
 file = "mods/hextended-staves.pw.toml"
 hash = "17ef031d4fdf9dd0b53c8834835c7921ed6e2e808d775af72f2406bc2c307ebc"
 metafile = true
