@@ -263,11 +263,6 @@ hash = "264b4befe71497f87077d33d4cb3fec1e3395694833a12a95b42e6de590f7a1d"
 metafile = true
 
 [[files]]
-file = "mods/blahaj.pw.toml"
-hash = "422269e01109affac0ca7810c92a6528a050ae95f90185c6ee0baa8f1dc7fad9"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
 metafile = true
@@ -309,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
+hash = "6ce97b65a78d66e0ae006105e63e2ccf8af6b3b266a2c5234f6ae7657b98220b"
 metafile = true
 
 [[files]]
