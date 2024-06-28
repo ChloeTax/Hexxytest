@@ -1,13 +1,8 @@
 name = "Hex Casting"
-filename = "hexcasting-fabric-1.19.2-0.10.3.jar"
-side = "both"
+filename = "hexcasting-fabric-1.19.2-0.10.3d.jar"
+side = both
 
 [download]
-url = "https://cdn.modrinth.com/data/nTW3yKrm/versions/IbghSN93/hexcasting-fabric-1.19.2-0.10.3.jar"
+url = "https://github.com/HexxyCraft/HexMod/releases/download/0.10.3d/hexcasting-fabric-1.19.2-0.10.3d.jar"
 hash-format = "sha1"
-hash = "19702b82d52069b41f702317ba877818e1346716"
-
-[update]
-[update.modrinth]
-mod-id = "nTW3yKrm"
-version = "IbghSN93"
+hash = "d504655cc43f46a5591e93f0289b103ab676d3a3"
