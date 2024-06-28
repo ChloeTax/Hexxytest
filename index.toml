@@ -323,6 +323,11 @@ hash = "26dcd1c29f902928f67cbae7e8de2cc7b301469547a023df352c7115a51bd99c"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "4930290ea32be19b491cfde661c61b57be7fd72be4d90bd18a4c05606b0e9051"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "521ecd5a27fbfd5d0d2904a9a1dd5f4c202a49d172e0a9f5a819db55a61604d2"
 metafile = true
@@ -415,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "7537d7db35d975d7d0bbb7de3b6658a8d4c10f18e4813111d91259bddb192c42"
+metafile = true
+
+[[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "77e374467d6b7c78361abecf31f3fa6b32867c9f8598e7bf3bea5725b78e3aa2"
 metafile = true
 
 [[files]]
@@ -537,6 +547,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/ingredient-extension-api.pw.toml"
+hash = "2b6969305cf06523684d31043844f1c8f147a875c899bfbc1097e60468f274d7"
+metafile = true
+
+[[files]]
 file = "mods/invview.pw.toml"
 hash = "6da8b8e61582af489a0fc2e8490898701fef907a0b7942c48376489e65d940eb"
 metafile = true
@@ -567,6 +582,11 @@ hash = "dfa4649a47ff70115d5017d019d62b08326eec36404edce390ff5b4cf178e913"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "45123bda070dcce7ee56bbe4774dd9a1bc37dbbd4030c6c1ed118771a8e25d91"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
@@ -584,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "52f1e1aa2879cb5f54d17182faa8f8ab2df2645bd1a92dc18e8b58c12ed9824b"
 metafile = true
 
 [[files]]
@@ -719,6 +744,11 @@ metafile = true
 [[files]]
 file = "mods/revelationary.pw.toml"
 hash = "9b0995d469116c38c30ea1b5141949652cb37671f4d671edcc9e22548fd2eb20"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ab5ca2d07015ef0eb01e652fd09cf0d9183ab5732f7ccaa95bdc77f1519af8dc"
 metafile = true
 
 [[files]]
