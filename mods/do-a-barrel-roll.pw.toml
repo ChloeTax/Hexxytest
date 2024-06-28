@@ -1,6 +1,6 @@
 name = "Do a Barrel Roll"
 filename = "do-a-barrel-roll-2.6.2+1.19.2-fabric.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/2GZpcF7N/do-a-barrel-roll-2.6.2%2B1.19.2-fabric.jar"
