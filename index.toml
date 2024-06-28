@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "4206f9a4f04d9a1643fa579c2b268975d3d9901e420b4aa24ca49638818a9b16"
+hash = "602b1ad3cc17ce560a449be683de62a2e7b0babbb945a4c2229c146bca9692ee"
 metafile = true
 
 [[files]]
@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
+hash = "b7bda819c86f20883cdfaaeb40082ce4b980bf35c30b9b24879c0a94fdb3be97"
 metafile = true
 
 [[files]]
