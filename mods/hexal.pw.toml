@@ -1,0 +1,13 @@
+name = "Hexal"
+filename = "hexal-fabric-1.19.2-0.2.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aBVJ6Q36/versions/m7Bxvj56/hexal-fabric-1.19.2-0.2.19.jar"
+hash-format = "sha1"
+hash = "e7d35ab7468aa19aa87cb25ac3f5b0273ef6f52e"
+
+[update]
+[update.modrinth]
+mod-id = "aBVJ6Q36"
+version = "m7Bxvj56"

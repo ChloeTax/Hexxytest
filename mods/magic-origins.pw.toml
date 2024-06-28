@@ -1,0 +1,13 @@
+name = "Magic  Origins"
+filename = "magic_origins v0.3.5 1.19-1.19.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mattYXZw/versions/12c9Hifi/magic_origins%20v0.3.5%201.19-1.19.3.jar"
+hash-format = "sha1"
+hash = "ab25bcbb4e49f40e02c2d0cbae519ebe4764b246"
+
+[update]
+[update.modrinth]
+mod-id = "mattYXZw"
+version = "12c9Hifi"

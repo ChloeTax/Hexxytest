@@ -1,0 +1,13 @@
+name = "Create: Estrogen"
+filename = "Estrogen-4.1.0+1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/2USJJpaU/Estrogen-4.1.0%2B1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "ca478c49925e8d47ea881410cbe1cc87a46c3167"
+
+[update]
+[update.modrinth]
+mod-id = "HhIJW8n1"
+version = "2USJJpaU"

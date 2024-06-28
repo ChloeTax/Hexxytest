@@ -1,0 +1,13 @@
+name = "Observable"
+filename = "observable-3.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VYRu7qmG/versions/fpdHeiWg/observable-3.3.1.jar"
+hash-format = "sha1"
+hash = "c4264c72f6381d984feb245343b5417ce48aa56b"
+
+[update]
+[update.modrinth]
+mod-id = "VYRu7qmG"
+version = "fpdHeiWg"

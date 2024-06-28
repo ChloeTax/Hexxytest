@@ -1,0 +1,13 @@
+name = "Moonlight Lib"
+filename = "moonlight-1.19.2-2.3.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/oi8DYts3/moonlight-1.19.2-2.3.5-fabric.jar"
+hash-format = "sha1"
+hash = "ae040731900cd9b1627f52ae01f2df3727c532af"
+
+[update]
+[update.modrinth]
+mod-id = "twkfQtEc"
+version = "oi8DYts3"

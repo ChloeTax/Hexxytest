@@ -1,0 +1,13 @@
+name = "Hextended Staves"
+filename = "lanishextendedstaves-fabric-1.19.2-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mvESKiJR/versions/Ri7kSYJL/lanishextendedstaves-fabric-1.19.2-0.2.0.jar"
+hash-format = "sha1"
+hash = "5f0db485ef48e7fde719707f122bf292994a2ee5"
+
+[update]
+[update.modrinth]
+mod-id = "mvESKiJR"
+version = "Ri7kSYJL"

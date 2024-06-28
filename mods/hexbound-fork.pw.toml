@@ -1,0 +1,13 @@
+name = "Hexbound (fork)"
+filename = "hexbound-0.1.4+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rKZ6fcjp/versions/askARahx/hexbound-0.1.4%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "fd21be7b8cad4a306ff41e8fc53fa4e20095d38d"
+
+[update]
+[update.modrinth]
+mod-id = "rKZ6fcjp"
+version = "askARahx"

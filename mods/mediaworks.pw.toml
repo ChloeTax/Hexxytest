@@ -1,0 +1,13 @@
+name = "Mediaworks"
+filename = "mediaworks-fabric-1.19.2-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2kZJcMa9/versions/ptkTUdd6/mediaworks-fabric-1.19.2-1.0.7.jar"
+hash-format = "sha1"
+hash = "ccea6ec99ce0b23cac1f84611900432017ff7b08"
+
+[update]
+[update.modrinth]
+mod-id = "2kZJcMa9"
+version = "ptkTUdd6"

@@ -1,0 +1,13 @@
+name = "Vein Mining"
+filename = "veinmining-fabric-1.1.3+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRAPbNyF/versions/xVKVsHPn/veinmining-fabric-1.1.3%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "855778652ab82031e49f25b4b45cb4f7f4825e43"
+
+[update]
+[update.modrinth]
+mod-id = "bRAPbNyF"
+version = "xVKVsHPn"

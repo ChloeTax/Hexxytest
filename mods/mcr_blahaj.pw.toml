@@ -1,0 +1,13 @@
+name = "Blahaj Expanded"
+filename = "blahaj_1.19-0.6.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/faitfqhg/versions/iJu1ebsU/blahaj_1.19-0.6.3.jar"
+hash-format = "sha1"
+hash = "7e976331b56a42bf1fa48f1a6b113b01614d84ac"
+
+[update]
+[update.modrinth]
+mod-id = "faitfqhg"
+version = "iJu1ebsU"

@@ -1,0 +1,13 @@
+name = "HexVR"
+filename = "HexVR-1.4.0 [FABRIC].jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JGVJRpis/versions/GkgHis1g/HexVR-1.4.0%20%5BFABRIC%5D.jar"
+hash-format = "sha1"
+hash = "979eab6fa82c1f31a02f4c120f08f4ad34f51848"
+
+[update]
+[update.modrinth]
+mod-id = "JGVJRpis"
+version = "GkgHis1g"

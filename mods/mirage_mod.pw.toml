@@ -1,0 +1,13 @@
+name = "MIRAGE MOD"
+filename = "mirage-0.0.3-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bbn86mnI/versions/gliJ6l3Q/mirage-0.0.3-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "b9c3cecdceae5465458c3894eba11e1c3aced66e"
+
+[update]
+[update.modrinth]
+mod-id = "bbn86mnI"
+version = "gliJ6l3Q"

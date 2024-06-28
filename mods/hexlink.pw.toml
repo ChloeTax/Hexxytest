@@ -1,0 +1,13 @@
+name = "Hexlink"
+filename = "hexlink-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1xOBKCjv/versions/spZxLP1R/hexlink-2.3.1.jar"
+hash-format = "sha1"
+hash = "5d46ece735579d5e35f46683b67bc0e001cd9fec"
+
+[update]
+[update.modrinth]
+mod-id = "1xOBKCjv"
+version = "spZxLP1R"
