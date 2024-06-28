@@ -1,6 +1,6 @@
 name = "Hex Casting"
 filename = "hexcasting-fabric-1.19.2-0.10.3d.jar"
-side = both
+side = "both"
 
 [download]
 url = "https://github.com/HexxyCraft/HexMod/releases/download/0.10.3d/hexcasting-fabric-1.19.2-0.10.3d.jar"
