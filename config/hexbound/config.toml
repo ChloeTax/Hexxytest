@@ -1,0 +1,27 @@
+
+[client]
+	# Force Spider Construct to always use the alternative Robot model
+	# default: false
+	force_alternate_construct = false
+	# How many particles an activated Construct Broadcaster fires off
+	# range: 0 - 200
+	# default: 16
+	broadcaster_particle_amount = 16
+
+[misc]
+	# Changes the required media charge for a Spider Construct Battery to fully charge (in amethyst dust units)
+	# range: 1 - 2147483647
+	# default: 50
+	spider_battery_charge = 50
+	# If a construct fails to get reasonably close to the target, it can try pathfinding to it again.
+	# Increasing this value will make constructs reaching their target more consistent, but can lead to trying to reach unreachable targets for too long, or cause lag.
+	# range: 1 - 10
+	# default: 3
+	construct_pathfinding_attempts = 3
+
+[execution]
+	# Identifiers of pattern actions that should never be executed by Constructs.
+	# By default, includes most spells (should a Construct somehow acquire media to cast one) and sending orders to other Constructs or Hexal Wisps.
+	# Additionally, any entry containing a star will match any text (including empty strings) in that position.
+	construct_action_deny_list = ["hexbound:instructions/*", "hexbound:colorizer/*", "hexcasting:explode*", "hexcasting:add_motion", "hexcasting:blink", "hexcasting:break_block", "hexcasting:place_block", "hexcasting:craft/*", "hexcasting:recharge", "hexcasting:erase", "hexcasting:*_water", "hexcasting:ignite", "hexcasting:extinguish", "hexcasting:conjure_*", "hexcasting:bonemeal", "hexcasting:edify", "hexcasting:colorize", "hexcasting:sentinel/*", "hexcasting:potion/*", "hexal:everbook/*", "hexal:wisp/summon/*", "hexal:wisp/seon/*", "hexal:wisp/consume", "hexal:smelt", "hexal:place_type", "hexal:freeze", "hexal:falling_block"]
+

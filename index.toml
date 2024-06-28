@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f75b4f0c495acefc0d1f63900b22b983d94dbf8ecaf6d6de9e129a99ac229918"
+hash = "0af17abeb9406ed5adbac0e4501529034fb433c295bd933d9043cdd8abd0fca0"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexkeys.pw.toml"
-hash = "a7182aabf22c79f19287acd277c66e5f5fe94df244e1d05f30aa102074a49eda"
+hash = "dfdf10f4ec9a33471909029ef0d05d3fec2cc3d7c632e9aa8b8230aeaeaca941"
 metafile = true
 
 [[files]]
@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexlink.pw.toml"
-hash = "b07d81a45ef32da5d3bf96b7a9733ecfef25c1d939fdc2256896da0de0fb4e8c"
+hash = "8bc6b316b162f91893a75001969aaa2460bcff43fc1ab092972ecfbdc0609ce3"
 metafile = true
 
 [[files]]
