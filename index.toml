@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "466fea37964c89c3f9f7c2f7dcb49f7d38341d26b36b0f07b42f89aa1fbcc7d9"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
@@ -18,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
 metafile = true
 
 [[files]]
@@ -88,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "ad5d758166eab77382e53747764b28c6d5bf191d4e97adf202f7e8f8730dab42"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "ae7da9393665eb20bcd5385fe3a699c90be192e84211f79613701c719743cff7"
 metafile = true
 
 [[files]]
