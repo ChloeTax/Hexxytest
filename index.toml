@@ -10,11 +10,6 @@ hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
 
 [[files]]
-file = "mods/amecs.pw.toml"
-hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "a0ccdbeba73ba4d5992ec991241cfa323f416631385ce2da9b93c24ef9c979e3"
 metafile = true
