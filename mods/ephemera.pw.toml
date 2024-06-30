@@ -1,0 +1,13 @@
+name = "Ephemera"
+filename = "ephemera-fabric-1.19.2-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bb8eebe20911fc5d3838a78ad64b016da39065f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5483463
+project-id = 1052398

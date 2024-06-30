@@ -300,6 +300,11 @@ hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
 metafile = true
 
 [[files]]
+file = "mods/ephemera.pw.toml"
+hash = "40e5519977713af9a8756ef04c37fe0ef1dc01fa38f8b4027b2a2d6ccfc1da35"
+metafile = true
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "2784d741c432a2cf16ba7bd11a75244cd75b30b5113d9def8c82784a58c28405"
 metafile = true
@@ -617,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "87857d482a7d442c21384f5762bd7e51ad6ee1bda30f01b206dfa2694ca9c8ff"
+metafile = true
+
+[[files]]
+file = "mods/oneironaut.pw.toml"
+hash = "d971883e9f7585a6405aed58b82b25abd3bc93363c0b7022f941d24300ae9dbb"
 metafile = true
 
 [[files]]
