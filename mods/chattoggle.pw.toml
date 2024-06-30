@@ -1,0 +1,13 @@
+name = "Chat Toggle"
+filename = "chattoggle-5.0.0+1.19.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k6aAChpa/versions/mzBH69nP/chattoggle-5.0.0%2B1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "5167063d5a2246c339f76ebba1c759f6ad74ba59"
+
+[update]
+[update.modrinth]
+mod-id = "k6aAChpa"
+version = "mzBH69nP"

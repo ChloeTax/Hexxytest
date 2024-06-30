@@ -1,0 +1,13 @@
+name = "Convenient Name Tags"
+filename = "convenientnametags-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eUsHC1iS/versions/HHgPc9X0/convenientnametags-1.0.0.jar"
+hash-format = "sha1"
+hash = "7265e92b4eb9bd571277e35c6e45eb44bc5d7436"
+
+[update]
+[update.modrinth]
+mod-id = "eUsHC1iS"
+version = "HHgPc9X0"

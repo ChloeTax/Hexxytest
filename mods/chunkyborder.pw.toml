@@ -1,0 +1,13 @@
+name = "Chunky Border"
+filename = "ChunkyBorder-1.1.34.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s86X568j/versions/99NnnI0G/ChunkyBorder-1.1.34.jar"
+hash-format = "sha1"
+hash = "0d9c40a20558e2527e5a1c36c7d93c1fbdfaf0c6"
+
+[update]
+[update.modrinth]
+mod-id = "s86X568j"
+version = "99NnnI0G"

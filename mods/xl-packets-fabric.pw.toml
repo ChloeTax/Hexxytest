@@ -1,0 +1,13 @@
+name = "XL Packets Fabric"
+filename = "xlpackets-1.19.2-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e33a6924c023c063ece7beece2ccc05cecae384a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4110462
+project-id = 390168

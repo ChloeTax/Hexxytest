@@ -1,0 +1,13 @@
+name = "Light Overlay"
+filename = "light-overlay-7.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YfOlc91N/versions/7.0.0%2Bfabric/light-overlay-7.0.0.jar"
+hash-format = "sha1"
+hash = "188fbcfdc097b1a5309f1588270d075627c84a96"
+
+[update]
+[update.modrinth]
+mod-id = "YfOlc91N"
+version = "8MLUOCy0"

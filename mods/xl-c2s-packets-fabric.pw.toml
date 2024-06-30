@@ -1,0 +1,7 @@
+name = "XL C2S Packets Fabric"
+filename = "xlc2spackets-mc1.19.2-1.1.jar"
+
+[download]
+url = "https://github.com/HexxyCraft/XLC2SPacketsFabric/releases/download/1.1/xlc2spackets-mc1.19.2-1.1.jar"
+hash-format = "sha1"
+hash = "3f4865a84582e1098c9e9a5db44e62496a24a67b"

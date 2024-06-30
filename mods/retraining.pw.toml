@@ -1,0 +1,13 @@
+name = "Retraining"
+filename = "Retraining-fabric-1.19.2-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iugiwphr/versions/iV0eFMMp/Retraining-fabric-1.19.2-1.2.1.jar"
+hash-format = "sha1"
+hash = "da2ce1a813adc0edd7a535fd2bbea7e91bf8b17c"
+
+[update]
+[update.modrinth]
+mod-id = "Iugiwphr"
+version = "iV0eFMMp"

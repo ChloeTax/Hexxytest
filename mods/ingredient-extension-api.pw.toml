@@ -1,0 +1,13 @@
+name = "Ingredient Extension API"
+filename = "IngredientExtensionAPI-fabric-1.19.2-3.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ykQv0RVc/versions/LcPATGVR/IngredientExtensionAPI-fabric-1.19.2-3.0.6.jar"
+hash-format = "sha1"
+hash = "c62ab4331a27b92a1db7398cd4f2a56e40e7aaf4"
+
+[update]
+[update.modrinth]
+mod-id = "ykQv0RVc"
+version = "LcPATGVR"

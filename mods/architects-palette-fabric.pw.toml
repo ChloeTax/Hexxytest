@@ -1,0 +1,13 @@
+name = "Architect's Palette [Fabric]"
+filename = "architects-palette-fabric-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ktECB2Rv/versions/yQiy67D1/architects-palette-fabric-3.0.0.jar"
+hash-format = "sha1"
+hash = "57833f53fdc1ce61610c618bc5114b3626cb5818"
+
+[update]
+[update.modrinth]
+mod-id = "ktECB2Rv"
+version = "yQiy67D1"
