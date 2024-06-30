@@ -855,11 +855,6 @@ hash = "bc37d961e1e1b05c10e04e5dc9bd13f75cfad45751338b5738b9556f87976c64"
 metafile = true
 
 [[files]]
-file = "mods/xl-packets-fabric.pw.toml"
-hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
-metafile = true
-
-[[files]]
 file = "mods/yigd.pw.toml"
 hash = "36bc57806a6d997d79767620bc3f0b019e878f337a2655b9cb98a006c4e5d2e8"
 metafile = true
