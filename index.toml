@@ -410,11 +410,6 @@ hash = "67a6708514f1adb7cc9d80e23240ef6febe092d324903c197ceba096dfa5fd1b"
 metafile = true
 
 [[files]]
-file = "mods/hexdebug.pw.toml"
-hash = "3c24c6e494e624b29b18092fc55661cbb5aa03c3f7b4208ac6215e50d0ea58ff"
-metafile = true
-
-[[files]]
 file = "mods/hexgloop.pw.toml"
 hash = "be9c931d7ef0d9adfdcc367976d2c6afb58a4e4bbb3dee0fe9d0c131cf076765"
 metafile = true
