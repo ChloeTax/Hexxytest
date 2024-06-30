@@ -13,4 +13,4 @@ minecraft = "1.19.2"
 quilt = "0.26.0"
 
 [options]
-no-internal-hashes = true
+no-internal-hashes = false
