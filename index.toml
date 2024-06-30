@@ -240,11 +240,6 @@ hash = "d8a51586ed3c982870bce4d9876a550ac188ebc2263e3acc368605978df608c2"
 metafile = true
 
 [[files]]
-file = "mods/dustrial-decor.pw.toml"
-hash = "321d91a48c60079500f68ab2741d955f5dedab4d36c904ad8f2c21dc4531682e"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "3a4a6237aa771e033706da0216f80e62311a8851059bb08f7722196e414e6ce7"
 metafile = true
