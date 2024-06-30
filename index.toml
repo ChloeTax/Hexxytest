@@ -500,11 +500,6 @@ hash = "dfa4649a47ff70115d5017d019d62b08326eec36404edce390ff5b4cf178e913"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
-metafile = true
-
-[[files]]
 file = "mods/labels.pw.toml"
 hash = "5b933b50dea90842a5c363ff3975d4eaf60bdcc8a0428042a5d3890584767534"
 metafile = true
@@ -817,11 +812,6 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "4a53f566ad6803adc2226bc1cdce2cdb6aabdd6c6a1397af8d818115fb7fa22e"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "2e7bb3b4927321974a8b2b1b42458e74dfa467fc9436f5c9e450141fc6a973da"
 metafile = true
 
 [[files]]
