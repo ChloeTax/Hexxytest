@@ -785,11 +785,6 @@ hash = "ea54599083767022492eaa76cce7cafe40103d3a015b8012dc34761e464d0ed0"
 metafile = true
 
 [[files]]
-file = "mods/tax-free-levels.pw.toml"
-hash = "751551d8ce556a64e31a9c8f4e27c4997e8c1806e7eccab468977adcb6736941"
-metafile = true
-
-[[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "1d22f7b054f7596f7f2793a6ebf795ac950308f40a462ae7349ddad03bd7a352"
 metafile = true
