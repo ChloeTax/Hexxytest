@@ -80,6 +80,11 @@ hash = "9aad0aeed9cb635aa6e1c96880f3eefb15c319dd3d38e6731ac2fc41d50a4adc"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "cbb78679ef82eb1e935fcf843d6ccd38213dbb52f4bf8cad42a760375596e9b3"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
 metafile = true
