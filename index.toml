@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/chattoggle.pw.toml"
-hash = "ab9c0a50e20226d58a98ef51900f8ffba2141edbc3a5da6059b148f522707662"
+hash = "d8d5b99ab7315fc4d159085bbc5dc6b2c22c385b24703e539833436b6857b1ba"
 metafile = true
 
 [[files]]
