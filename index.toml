@@ -560,11 +560,6 @@ hash = "4e9944ed75707dc4deec44bccb77b9f68300d3a4fb724b1e88c75f23a00d142a"
 metafile = true
 
 [[files]]
-file = "mods/led.pw.toml"
-hash = "c922a4dff188cb5be54bb1fc11d348ecc7ab66d7f18924038f6d2657e2ec73b6"
-metafile = true
-
-[[files]]
 file = "mods/ledger.pw.toml"
 hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
 metafile = true
@@ -757,11 +752,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
-metafile = true
-
-[[files]]
-file = "mods/shimmer!.pw.toml"
-hash = "0da22bbc04c75b209c38c518924fe52d1973f0093a052c64e0df18be6d6f6a53"
 metafile = true
 
 [[files]]
