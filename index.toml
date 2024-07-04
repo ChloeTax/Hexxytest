@@ -70,6 +70,11 @@ hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
 metafile = true
 
 [[files]]
+file = "mods/blockbot.pw.toml"
+hash = "417d39a624dbbad718d1dc3b1374e14772433d1f4b75de84d565b3f08232217f"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
 metafile = true
