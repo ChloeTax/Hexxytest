@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "1ac39326cbd7bd6c801f9f059bb3456b3428bd3b8dacdf8185d581e5dc71fb10"
+hash = "554123d68650fd1ce5345138b50282f45efa55698801361fbeb4d798eb543431"
 metafile = true
 
 [[files]]
@@ -442,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/hexbound-fork.pw.toml"
 hash = "67a6708514f1adb7cc9d80e23240ef6febe092d324903c197ceba096dfa5fd1b"
+metafile = true
+
+[[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "3c24c6e494e624b29b18092fc55661cbb5aa03c3f7b4208ac6215e50d0ea58ff"
 metafile = true
 
 [[files]]
@@ -701,12 +706,8 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml.1"
 hash = "8b397d06fd6575b8e44c720cab46613ae1e7ab054f1a335cd4fe3bcc57d53ac0"
+metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
