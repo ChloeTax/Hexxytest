@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexkeys.pw.toml"
-hash = "dfdf10f4ec9a33471909029ef0d05d3fec2cc3d7c632e9aa8b8230aeaeaca941"
+hash = "a7182aabf22c79f19287acd277c66e5f5fe94df244e1d05f30aa102074a49eda"
 metafile = true
 
 [[files]]
