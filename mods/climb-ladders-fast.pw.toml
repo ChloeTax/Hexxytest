@@ -1,0 +1,13 @@
+name = "Climb Ladders Fast [Fabric/Forge]"
+filename = "climbladdersfast-2.2.3-1.18-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "778a7a1af2c82bbefb8f3ba924b33dc3f09ffd46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4375178
+project-id = 459522

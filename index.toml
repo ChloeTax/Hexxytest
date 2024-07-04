@@ -20,6 +20,11 @@ hash = "602b1ad3cc17ce560a449be683de62a2e7b0babbb945a4c2229c146bca9692ee"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics.pw.toml"
+hash = "d24195f590be8695c74a071b37081234aafdb5cd49c726c7285a990bc2639517"
+metafile = true
+
+[[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "2bbf01873718fc8c559df7a6488bc0b1803f431758624b0bc257914bee6d0365"
 metafile = true
@@ -32,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
+metafile = true
+
+[[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "82f388892d83fe2c3c0a4dc1eecf84c4e72544286d1fb51c52849999defcd42d"
 metafile = true
 
 [[files]]
@@ -140,6 +150,11 @@ hash = "0b307a8cfdc3f214c384fc9f8e34e786373efbf3874715947ef8a6bedcb5806c"
 metafile = true
 
 [[files]]
+file = "mods/climb-ladders-fast.pw.toml"
+hash = "04d3ca1dde07406024a51e6a2f379f5fe316c570a2a972030d05cad54eaa6b76"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
@@ -197,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "ad5d758166eab77382e53747764b28c6d5bf191d4e97adf202f7e8f8730dab42"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "62f2910de0e12f66c2888691baf29e891883aded41419dec468e940a9b1031b0"
 metafile = true
 
 [[files]]
@@ -360,6 +380,21 @@ hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "884752a3b3260d08d8f30fe13d8b9293fd779b545be3c914cb229cf0d6703dfb"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "3962cc289af4c636f20748d33729a61f14ddd38d55405a0f4169c8e2133f279f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "191e7106a3915d5946487cbf827befceed9896ea937a99a12a73a702c31a707d"
+metafile = true
+
+[[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "33b0c63ff55058cfb285fbcc50a7adacde22ad699244266c847326377670aabe"
 metafile = true
@@ -402,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/hexbound-fork.pw.toml"
 hash = "67a6708514f1adb7cc9d80e23240ef6febe092d324903c197ceba096dfa5fd1b"
+metafile = true
+
+[[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "3c24c6e494e624b29b18092fc55661cbb5aa03c3f7b4208ac6215e50d0ea58ff"
 metafile = true
 
 [[files]]
@@ -661,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
+hash = "50f413eb229b578c7dbb5d8665a8ad29e0221a4e16acbe62cb9f52e2bedaa732"
 metafile = true
 
 [[files]]
@@ -690,6 +730,11 @@ hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
+file = "mods/restart-server.pw.toml"
+hash = "65660f3f2941f9a62273665ee083c7ef58c1da1e12054480635cf26b4b6108a2"
+metafile = true
+
+[[files]]
 file = "mods/retraining.pw.toml"
 hash = "8b1615d68a1964d0234bb6bcebea540d67b1b0522a377d93487d58121241a163"
 metafile = true
@@ -705,8 +750,18 @@ hash = "4ce2889630fcc72c63d9e84030a764e059c1f66386e8638e88ace01d1a64c384"
 metafile = true
 
 [[files]]
+file = "mods/server-redstone-block.pw.toml"
+hash = "2d75f5b6c41130837319c9cc8201433a207452fa400e037ce5cc7652ab6fe72f"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
+metafile = true
+
+[[files]]
+file = "mods/shimmer!.pw.toml"
+hash = "0da22bbc04c75b209c38c518924fe52d1973f0093a052c64e0df18be6d6f6a53"
 metafile = true
 
 [[files]]
@@ -732,11 +787,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
-metafile = true
-
-[[files]]
-file = "mods/spectrum.pw.toml"
-hash = "a0a0fb8b0139bafbb49656315a044ae52bc61ba6552091fba3071e0cee3d56f5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Shimmer"
+filename = "Shimmer-fabric-1.19.2-0.2.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uBKACKpl/versions/QNETiSHZ/Shimmer-fabric-1.19.2-0.2.5.jar"
+hash-format = "sha1"
+hash = "8d9b4dab2033eaa95a2734db4d934c7352ab529d"
+
+[update]
+[update.modrinth]
+mod-id = "uBKACKpl"
+version = "QNETiSHZ"

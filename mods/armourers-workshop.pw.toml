@@ -1,0 +1,13 @@
+name = "Armourer's Workshop"
+filename = "armourersworkshop-fabric-1.19.2-3.0.0-beta.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y4JF3gXL/versions/mCQ4dotF/armourersworkshop-fabric-1.19.2-3.0.0-beta.9.jar"
+hash-format = "sha1"
+hash = "41652a73c2588a589cd3a4079b80f4f97feef0d2"
+
+[update]
+[update.modrinth]
+mod-id = "y4JF3gXL"
+version = "mCQ4dotF"

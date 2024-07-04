@@ -1,0 +1,13 @@
+name = "Applied Botanics"
+filename = "Applied-Botanics-fabric-1.4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/545hUrw9/versions/XoswqESG/Applied-Botanics-fabric-1.4.6.jar"
+hash-format = "sha1"
+hash = "b3865d32c674d3db923da3c78a93df7fa70ab30c"
+
+[update]
+[update.modrinth]
+mod-id = "545hUrw9"
+version = "XoswqESG"

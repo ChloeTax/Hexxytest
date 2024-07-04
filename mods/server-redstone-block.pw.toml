@@ -1,0 +1,13 @@
+name = "Server Redstone Block"
+filename = "ServerRedstoneBlock-fabric-1.19-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7GZKzuhg/versions/i0x0mDqY/ServerRedstoneBlock-fabric-1.19-1.0.0.jar"
+hash-format = "sha1"
+hash = "a9d070da1700cdf93d3e8fafebb15bc7b4a8fef7"
+
+[update]
+[update.modrinth]
+mod-id = "7GZKzuhg"
+version = "i0x0mDqY"
