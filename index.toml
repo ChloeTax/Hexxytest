@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/autorun.pw.toml"
-hash = "b294f67ca50e4cccc40a75b3314f50ef3e8aadc3e7300049a947e26a90d8ae06"
+hash = "8a4a8eba178616822cc885d1532cd67fe629e2111f5d75911b179fd5b5dd6a3e"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/chattoggle.pw.toml"
-hash = "827a9b50900cd9cffa168c3c8269b2ea591808db3665bd6115bed084c87c6821"
+hash = "ab9c0a50e20226d58a98ef51900f8ffba2141edbc3a5da6059b148f522707662"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
-hash = "0b307a8cfdc3f214c384fc9f8e34e786373efbf3874715947ef8a6bedcb5806c"
+hash = "198a5edbee5d66549cbf6dc79fd93f89421358e5f690e37c4d1b8b9b461ffa69"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "140b07a0bd50db3fdcdedd38f8fbd6f5824a003121964bb90942a20d0a6f22e6"
+hash = "b599b1d7db9d7dcb88820af102cdde078255aab03e9f2b45f7d603b2744545aa"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a4a6237aa771e033706da0216f80e62311a8851059bb08f7722196e414e6ce7"
+hash = "8afd27487a60584b4fc1e4126f86cc95ecf2c2817eb20e6c67692566be5898ba"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
-hash = "94e7f92d2fd5f41e9092466413a7c04ee4f514082fc389fad0bf5603b06287db"
+hash = "f73ec808e110e662fa32000940ba32aaf28d5cada7b267d7e071424b42d65a6d"
 metafile = true
 
 [[files]]
@@ -810,11 +810,6 @@ hash = "8ce6dae0860f63a4ef43525815e9d992efe5e1e7735d0e2202894df44b649bdd"
 metafile = true
 
 [[files]]
-file = "mods/styledplayerlist.pw.toml"
-hash = "d2accfdeb772987301d7517f93e081a276e5ae7610caf1f213a2012204699358"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "8ca0446a0b3082fd087e698317c616149dd85c245b51739968af43eb819604cc"
 metafile = true
@@ -871,7 +866,7 @@ metafile = true
 
 [[files]]
 file = "mods/watson.pw.toml"
-hash = "a24b6b2da8aed9aef8bcbf863393aceec6326c07c6b85e90a1c79172c3fdd494"
+hash = "83e455ffba454c08d2ba696ecb1dd0ec3fc362aa79c188722ee448cb278c21d5"
 metafile = true
 
 [[files]]
