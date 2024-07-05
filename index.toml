@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexvr.pw.toml"
-hash = "6d11dbaa237954e80eed69fb04fe19eafa8e8c3083ea6f3a34b35dcb96b0a7cd"
+hash = "149d43a9d69323b79321bb684b570517766aafc0943576588e3d4a5f01fb0910"
 metafile = true
 
 [[files]]
