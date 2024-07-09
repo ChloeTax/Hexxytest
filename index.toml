@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-circus.pw.toml"
-hash = "aaa65ea4b53fc345a432685b57f59d28a29a3e945566f174df5e67d93a3a135d"
+hash = "f499fda084b22733e27d0ecbf8d1b2c501a90baa724ec96c4c51800442b75d2c"
 metafile = true
 
 [[files]]
@@ -867,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "bdb441402a79470f74659d15f03d514bf751fa8a711012629d584df0c76def3b"
 metafile = true
 
 [[files]]
