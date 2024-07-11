@@ -505,6 +505,11 @@ hash = "5d9c9dd72bec94920068e553b9e03e1b17e5f987e036951c672ba75e7158412b"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals-vivecraft-compatibility.pw.toml"
+hash = "575329bbbc6913b8fb9c149ca4d975caac8f89d4045d9bf687f0a172f0bdfff1"
+metafile = true
+
+[[files]]
 file = "mods/immersiveportals.pw.toml"
 hash = "b508713a412a72a4cb5567fb2f88b16bcfb8fe2904c9bf238863e9dfd7f03101"
 metafile = true

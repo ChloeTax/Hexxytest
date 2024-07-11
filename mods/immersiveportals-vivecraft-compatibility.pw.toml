@@ -1,0 +1,13 @@
+name = "ImmersivePortals Vivecraft Compatibility"
+filename = "ImmersivePortalsVivecraftCompatibility 1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vKaTkLXu/versions/cILqiCTr/ImmersivePortalsVivecraftCompatibility%201.0.0.jar"
+hash-format = "sha1"
+hash = "c169b8d252c7cf9a38cde1021f9b981a49fcf457"
+
+[update]
+[update.modrinth]
+mod-id = "vKaTkLXu"
+version = "cILqiCTr"
