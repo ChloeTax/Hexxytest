@@ -918,3 +918,7 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "36bc57806a6d997d79767620bc3f0b019e878f337a2655b9cb98a006c4e5d2e8"
 metafile = true
+
+[[files]]
+file = "scripts/chippedsaw.zs"
+hash = "f3729f9ee5fd617e062691e118c6889bbaacf10fce7c18ecd5e71499a3dcb0c2"
