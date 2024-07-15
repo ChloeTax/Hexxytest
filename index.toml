@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/deathlog.pw.toml"
-hash = "be160873f910e05a59aab41a59e682a41f9c413642e24727383505c013e5e3fc"
+hash = "c6fcb5b4304171b748db4c9a03fa0d0b659ca57bfed39917e5b371b39d135397"
 metafile = true
 
 [[files]]

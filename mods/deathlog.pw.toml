@@ -11,3 +11,7 @@ hash = "399c97e9d7540f8b7f58a673befb17c03154452c"
 [update.modrinth]
 mod-id = "TPAYeAOc"
 version = "vlidCmeD"
+
+[option]
+optional = true
+default = true
