@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/ephemera.pw.toml"
-hash = "40e5519977713af9a8756ef04c37fe0ef1dc01fa38f8b4027b2a2d6ccfc1da35"
+hash = "0b30ce407430b733e6c708b71540030f90fcdc8129257d581b120eba50d56d39"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexvr.pw.toml"
-hash = "149d43a9d69323b79321bb684b570517766aafc0943576588e3d4a5f01fb0910"
+hash = "1246e579e3a001a33a95a865f7810ef636e7f4db32d5d495a92076eace31d9f5"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneironaut.pw.toml"
-hash = "d971883e9f7585a6405aed58b82b25abd3bc93363c0b7022f941d24300ae9dbb"
+hash = "2c0fa393812816a08aa7e7df92621f3b2173c39ae85a2fada542b467e94b8d63"
 metafile = true
 
 [[files]]
