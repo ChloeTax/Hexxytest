@@ -205,6 +205,11 @@ hash = "d219df2db86da778604ecd0eae3ac5850d8deed6185438ecd72ae0953f0dbd44"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "791d87c33095a5e936439c48984bc3b36f0c79e31b96ff4cd35fae536d0fbe5e"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "26dcd1c29f902928f67cbae7e8de2cc7b301469547a023df352c7115a51bd99c"
 metafile = true
@@ -512,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveportals.pw.toml"
 hash = "b508713a412a72a4cb5567fb2f88b16bcfb8fe2904c9bf238863e9dfd7f03101"
+metafile = true
+
+[[files]]
+file = "mods/impaled.pw.toml"
+hash = "717e42c31fd9e80097f4d21ed6c138094a0025b53dfcf14d780c0078eb1b8722"
 metafile = true
 
 [[files]]
