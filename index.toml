@@ -475,6 +475,11 @@ hash = "c6e6e17840fcf13a5422cc569304e744deef8b56dcc48707f3577fabfd3c27f9"
 metafile = true
 
 [[files]]
+file = "mods/hexjs.pw.toml"
+hash = "38fe58d51e1fa619f00823b974f9a3f162739e961210fda604b82cae9ea6beb2"
+metafile = true
+
+[[files]]
 file = "mods/hexkeys.pw.toml"
 hash = "a7182aabf22c79f19287acd277c66e5f5fe94df244e1d05f30aa102074a49eda"
 metafile = true
@@ -562,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "dfa4649a47ff70115d5017d019d62b08326eec36404edce390ff5b4cf178e913"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "45123bda070dcce7ee56bbe4774dd9a1bc37dbbd4030c6c1ed118771a8e25d91"
 metafile = true
 
 [[files]]
@@ -777,6 +787,11 @@ metafile = true
 [[files]]
 file = "mods/revelationary.pw.toml"
 hash = "9b0995d469116c38c30ea1b5141949652cb37671f4d671edcc9e22548fd2eb20"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ab5ca2d07015ef0eb01e652fd09cf0d9183ab5732f7ccaa95bdc77f1519af8dc"
 metafile = true
 
 [[files]]
