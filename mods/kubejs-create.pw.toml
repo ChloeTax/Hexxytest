@@ -1,0 +1,13 @@
+name = "KubeJS Create"
+filename = "kubejs-create-fabric-1902.2.4-build.46.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T38eAZQC/versions/HJ0xIlkM/kubejs-create-fabric-1902.2.4-build.46.jar"
+hash-format = "sha1"
+hash = "3deef14d250458d62fcd525af7f4e0672259d843"
+
+[update]
+[update.modrinth]
+mod-id = "T38eAZQC"
+version = "HJ0xIlkM"

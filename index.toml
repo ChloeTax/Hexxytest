@@ -575,6 +575,16 @@ hash = "dfa4649a47ff70115d5017d019d62b08326eec36404edce390ff5b4cf178e913"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-additions.pw.toml"
+hash = "2ab65e45e20ce863bbab07de36e03157f439a31be192c809d37e05fd69736a91"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "c5de61a84348cb75101bcd9e3067b689db172d25d13ecde51750d05ead2bf444"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "45123bda070dcce7ee56bbe4774dd9a1bc37dbbd4030c6c1ed118771a8e25d91"
 metafile = true
@@ -737,6 +747,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "b82aa90ee9ee219151aab705d1926dfa6b03ce4cef703cac662accfa215ce461"
+metafile = true
+
+[[files]]
+file = "mods/ponder.pw.toml"
+hash = "805e72dac69cf1bb185be391264c194ad71b4bc186b5bd2517a299650053bc80"
 metafile = true
 
 [[files]]
