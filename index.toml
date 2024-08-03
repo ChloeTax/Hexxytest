@@ -470,11 +470,6 @@ hash = "67a6708514f1adb7cc9d80e23240ef6febe092d324903c197ceba096dfa5fd1b"
 metafile = true
 
 [[files]]
-file = "mods/hexcellular.pw.toml"
-hash = "4b3601cefdf26055b9039f15d20e9e60c8d3a2125723f54e5771d8dcd956e04d"
-metafile = true
-
-[[files]]
 file = "mods/hexgloop.pw.toml"
 hash = "be9c931d7ef0d9adfdcc367976d2c6afb58a4e4bbb3dee0fe9d0c131cf076765"
 metafile = true
