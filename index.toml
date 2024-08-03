@@ -470,6 +470,11 @@ hash = "67a6708514f1adb7cc9d80e23240ef6febe092d324903c197ceba096dfa5fd1b"
 metafile = true
 
 [[files]]
+file = "mods/hexcellular.pw.toml"
+hash = "4b3601cefdf26055b9039f15d20e9e60c8d3a2125723f54e5771d8dcd956e04d"
+metafile = true
+
+[[files]]
 file = "mods/hexgloop.pw.toml"
 hash = "be9c931d7ef0d9adfdcc367976d2c6afb58a4e4bbb3dee0fe9d0c131cf076765"
 metafile = true
@@ -905,6 +910,11 @@ hash = "501f8710feee9f1ae8c600ec57002145240b3dd7915d341a397e0f799c97ffc9"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "c26a44434f142748c63ea3a012db9a4e4e187f2ee6e20e78a6f38c3710498b93"
 metafile = true
@@ -937,6 +947,11 @@ metafile = true
 [[files]]
 file = "mods/watson.pw.toml"
 hash = "83e455ffba454c08d2ba696ecb1dd0ec3fc362aa79c188722ee448cb278c21d5"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "ea32137886c7e75b144ca1429f69f47a617827632117c704fe710bfa0b33c922"
 metafile = true
 
 [[files]]
