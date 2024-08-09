@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "878a0247916f78fbc4c65934f17af43fe0eab02f2d1f027e3ba6fef9e8c192cb"
+hash = "f71aea5fb58a8fb62e9102f080f951d5904e974b16e8327d8804b415a46b496b"
 metafile = true
 
 [[files]]
@@ -522,6 +522,11 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "5d9c9dd72bec94920068e553b9e03e1b17e5f987e036951c672ba75e7158412b"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "14ff031a1e209fac65c3189a087f7cf5ea24bcc0bb13b46c04b0cff0806f2581"
 metafile = true
 
 [[files]]
