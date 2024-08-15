@@ -220,6 +220,11 @@ hash = "4930290ea32be19b491cfde661c61b57be7fd72be4d90bd18a4c05606b0e9051"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "5406506f9245115609114769e87ad0d54e564a8a627967c8188d6c01aa6bcb52"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "521ecd5a27fbfd5d0d2904a9a1dd5f4c202a49d172e0a9f5a819db55a61604d2"
 metafile = true
@@ -232,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "9a33fffe97b6a2d752c14467c52a01419eb8496c78b2a9a05028b3e6257723bc"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "34932b2013ab164d6f18cf99384d45eb4774ee3af4f912087dc4d2a4c6afe313"
 metafile = true
 
 [[files]]
@@ -721,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneironaut.pw.toml"
-hash = "2c0fa393812816a08aa7e7df92621f3b2173c39ae85a2fada542b467e94b8d63"
+hash = "c62df6b51b7a47153d6e40c88bbd112c45ec9588e71fb2ce936e325283492821"
 metafile = true
 
 [[files]]
