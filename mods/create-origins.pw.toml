@@ -1,0 +1,13 @@
+name = "Create: Origins"
+filename = "create-origins-v1.2.1-fabric-quilt+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PnhmwLM0/versions/5WH0wd6t/create-origins-v1.2.1-fabric-quilt%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "cdf72556cd1599d5368d003f9c62197f2bc732bf"
+
+[update]
+[update.modrinth]
+mod-id = "PnhmwLM0"
+version = "5WH0wd6t"

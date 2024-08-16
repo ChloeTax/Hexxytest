@@ -235,6 +235,11 @@ hash = "9a33fffe97b6a2d752c14467c52a01419eb8496c78b2a9a05028b3e6257723bc"
 metafile = true
 
 [[files]]
+file = "mods/create-origins.pw.toml"
+hash = "073adf5044a66982ac0fb424647967ac5731d798f7b856213d10597231a951f0"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "34932b2013ab164d6f18cf99384d45eb4774ee3af4f912087dc4d2a4c6afe313"
 metafile = true
