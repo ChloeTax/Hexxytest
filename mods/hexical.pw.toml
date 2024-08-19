@@ -1,13 +1,13 @@
 name = "Hexical"
-filename = "hexical-1.3.0.jar"
+filename = "hexical-fabric-1.19.2-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xWqLqLJ4/versions/lTNTYdOm/hexical-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/xWqLqLJ4/versions/pkWDO7W1/hexical-fabric-1.19.2-1.2.0.jar"
 hash-format = "sha1"
-hash = "3a82aae3954410e7d89367f31e0cf7176033bdd4"
+hash = "b695cb09958653f9df4c33b76cc63ff1333023d4"
 
 [update]
 [update.modrinth]
 mod-id = "xWqLqLJ4"
-version = "lTNTYdOm"
+version = "pkWDO7W1"
