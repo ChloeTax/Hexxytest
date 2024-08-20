@@ -520,11 +520,6 @@ hash = "f8989baf7649dd44d8db505a36ab57536663471d003def1afe510a8d9dacc8a9"
 metafile = true
 
 [[files]]
-file = "mods/hexvr.pw.toml"
-hash = "1246e579e3a001a33a95a865f7810ef636e7f4db32d5d495a92076eace31d9f5"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "e2c8657cf0e39d2237380dd2b802ec0619d0fd439ef6297ca7a362fd5664cc78"
 metafile = true
