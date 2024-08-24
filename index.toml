@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexjs.pw.toml"
-hash = "c39cbda485bc7803e63a57bd8ba7d29aab4e66c1afcadc629973e36a4fea636f"
+hash = "43ca963427534295dd41ea4700689d2284e37feb9c273cef654a232d15e195b8"
 metafile = true
 
 [[files]]
