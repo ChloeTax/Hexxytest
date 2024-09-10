@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "791d87c33095a5e936439c48984bc3b36f0c79e31b96ff4cd35fae536d0fbe5e"
+hash = "76640b54e79a3b0366054568aabf6a13814251aaa3cb2639f47295830cb12f6f"
 metafile = true
 
 [[files]]
@@ -242,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "34932b2013ab164d6f18cf99384d45eb4774ee3af4f912087dc4d2a4c6afe313"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "c31a69a916617cfa7fef5ab8f8d055b0eb40179d15d5d2dacbc6898cb37d2135"
 metafile = true
 
 [[files]]
@@ -485,6 +490,11 @@ hash = "67030d8ed259c6ec6e7918d56f8ff9702795676b077cca2abb10628ce2272ecb"
 metafile = true
 
 [[files]]
+file = "mods/hexfaster.pw.toml"
+hash = "484e8d1d8b7cfe24b95c2649ccdca7ae4853e468414558f3a43039519263ff11"
+metafile = true
+
+[[files]]
 file = "mods/hexgloop.pw.toml"
 hash = "be9c931d7ef0d9adfdcc367976d2c6afb58a4e4bbb3dee0fe9d0c131cf076765"
 metafile = true
@@ -517,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "f8989baf7649dd44d8db505a36ab57536663471d003def1afe510a8d9dacc8a9"
+metafile = true
+
+[[files]]
+file = "mods/hexvr.pw.toml"
+hash = "1246e579e3a001a33a95a865f7810ef636e7f4db32d5d495a92076eace31d9f5"
 metafile = true
 
 [[files]]
