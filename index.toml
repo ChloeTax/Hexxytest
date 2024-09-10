@@ -415,6 +415,11 @@ hash = "f71aea5fb58a8fb62e9102f080f951d5904e974b16e8327d8804b415a46b496b"
 metafile = true
 
 [[files]]
+file = "mods/findme.pw.toml"
+hash = "05be1ff26381f90d7d58a074b10005169ce4da948a6d27926e8ce550704bc425"
+metafile = true
+
+[[files]]
 file = "mods/foodeffecttooltips.pw.toml"
 hash = "baff407819a6c5abaeea5fb19918706070283df823cebb0f8e62c0b42fc545c3"
 metafile = true
@@ -977,11 +982,6 @@ metafile = true
 [[files]]
 file = "mods/watson.pw.toml"
 hash = "83e455ffba454c08d2ba696ecb1dd0ec3fc362aa79c188722ee448cb278c21d5"
-metafile = true
-
-[[files]]
-file = "mods/where-is-it.pw.toml"
-hash = "ea32137886c7e75b144ca1429f69f47a617827632117c704fe710bfa0b33c922"
 metafile = true
 
 [[files]]
