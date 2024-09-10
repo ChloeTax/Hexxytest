@@ -946,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/too-many-binds.pw.toml"
-hash = "377dbb87db55f7a1062f8fd67e98ab2547b095fea056bb4d08ad54639ba3fff1"
+hash = "bc245fda83d75fbb913cc580ecc1fe10ac40ed3302d1355a0c18db451386a5de"
 metafile = true
 
 [[files]]
@@ -986,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/watson.pw.toml"
-hash = "83e455ffba454c08d2ba696ecb1dd0ec3fc362aa79c188722ee448cb278c21d5"
+hash = "f7894008028c7c456e02f34ced7aec2a3e2b455ddb1be4682b12021e746b4370"
 metafile = true
 
 [[files]]
