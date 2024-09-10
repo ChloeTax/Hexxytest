@@ -945,6 +945,11 @@ hash = "501f8710feee9f1ae8c600ec57002145240b3dd7915d341a397e0f799c97ffc9"
 metafile = true
 
 [[files]]
+file = "mods/too-many-binds.pw.toml"
+hash = "377dbb87db55f7a1062f8fd67e98ab2547b095fea056bb4d08ad54639ba3fff1"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
