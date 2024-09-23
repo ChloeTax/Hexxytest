@@ -860,6 +860,11 @@ hash = "4ce2889630fcc72c63d9e84030a764e059c1f66386e8638e88ace01d1a64c384"
 metafile = true
 
 [[files]]
+file = "mods/satin-api.pw.toml"
+hash = "2735ea119737e388770ac0e3aa7bf561cddebf300ceafa2baa63a8fc75e41d01"
+metafile = true
+
+[[files]]
 file = "mods/server-redstone-block.pw.toml"
 hash = "2d75f5b6c41130837319c9cc8201433a207452fa400e037ce5cc7652ab6fe72f"
 metafile = true
