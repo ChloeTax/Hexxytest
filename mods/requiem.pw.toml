@@ -1,0 +1,13 @@
+name = "Requiem"
+filename = "requiem-2.0.0-beta.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bYmqMxlQ/versions/TAqnZwVI/requiem-2.0.0-beta.16.jar"
+hash-format = "sha1"
+hash = "825a656ef00a03a9bf53d99384268752759d8be5"
+
+[update]
+[update.modrinth]
+mod-id = "bYmqMxlQ"
+version = "TAqnZwVI"

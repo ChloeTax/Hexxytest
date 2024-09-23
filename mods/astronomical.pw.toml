@@ -1,0 +1,13 @@
+name = "Astronomical"
+filename = "astronomical-1.0.1+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qvNFI0nc/versions/4tzdMt8k/astronomical-1.0.1%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "66d1be1c5d9e7120b3e11723c7ba4ddbcb4b2527"
+
+[update]
+[update.modrinth]
+mod-id = "qvNFI0nc"
+version = "4tzdMt8k"

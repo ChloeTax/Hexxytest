@@ -50,6 +50,11 @@ hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
 metafile = true
 
 [[files]]
+file = "mods/astronomical.pw.toml"
+hash = "74b58831fd9232a6032a061b5bebbcd5d24dab6ce823ab757b85ad160255f126"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "b119ad0ab00cff9062b29233e4f452d21f9ce690b53426e235670d54d84ac812"
 metafile = true
@@ -475,11 +480,6 @@ hash = "114d2b5056f7d6a7240ea048ed565872335ac443b0a0a8e1ca0b14d42aa01947"
 metafile = true
 
 [[files]]
-file = "mods/hex-ways.pw.toml"
-hash = "de7cb9413ff26a6876f1b30ef08d10c93834885ceb094334d173d96b49e7afcb"
-metafile = true
-
-[[files]]
 file = "mods/hexal.pw.toml"
 hash = "5097014f7de56317278be09cb37559f172d60292ba9bd6cef0727057df9c9a44"
 metafile = true
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexfaster.pw.toml"
-hash = "484e8d1d8b7cfe24b95c2649ccdca7ae4853e468414558f3a43039519263ff11"
+hash = "64a9a3c889e6eeb7f0109df96c977c2acb3116ffb9d07ad1fdf3299929157e72"
 metafile = true
 
 [[files]]
@@ -560,11 +560,6 @@ hash = "575329bbbc6913b8fb9c149ca4d975caac8f89d4045d9bf687f0a172f0bdfff1"
 metafile = true
 
 [[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "b508713a412a72a4cb5567fb2f88b16bcfb8fe2904c9bf238863e9dfd7f03101"
-metafile = true
-
-[[files]]
 file = "mods/impaled.pw.toml"
 hash = "717e42c31fd9e80097f4d21ed6c138094a0025b53dfcf14d780c0078eb1b8722"
 metafile = true
@@ -607,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "dfa4649a47ff70115d5017d019d62b08326eec36404edce390ff5b4cf178e913"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
@@ -825,6 +825,11 @@ hash = "1c79df1ad68ec9794e621af4b30752af1e83a124ec6b5c592d48bb6109c1e899"
 metafile = true
 
 [[files]]
+file = "mods/requiem.pw.toml"
+hash = "f3ee2ed045aadd9b00942c517d5b0fbddacee0bccf1a9cadfd03841e043ad155"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
@@ -982,6 +987,11 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "4a53f566ad6803adc2226bc1cdce2cdb6aabdd6c6a1397af8d818115fb7fa22e"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "2e7bb3b4927321974a8b2b1b42458e74dfa467fc9436f5c9e450141fc6a973da"
 metafile = true
 
 [[files]]
