@@ -485,6 +485,10 @@ hash = "67a6708514f1adb7cc9d80e23240ef6febe092d324903c197ceba096dfa5fd1b"
 metafile = true
 
 [[files]]
+file = "mods/hexbyte-fabric-1.19.2-0.0.1.jar"
+hash = "45f101f0855a20dd4dbc95b2bfa5ae28c729227d6d96732135e099f98bb5801b"
+
+[[files]]
 file = "mods/hexcellular.pw.toml"
 hash = "67030d8ed259c6ec6e7918d56f8ff9702795676b077cca2abb10628ce2272ecb"
 metafile = true
@@ -517,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/hexkinetics.pw.toml"
 hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
+metafile = true
+
+[[files]]
+file = "mods/hexstuff.pw.toml"
+hash = "cda5f451281727d313ee7478e7a1a6da8deaa604712cb9b6894042549e3eb1f1"
 metafile = true
 
 [[files]]
@@ -982,6 +991,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "f0e01ada541700a959b3ec6a9aed856d3d52ab2309f0ba71d42ad77f490b4edf"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "a9fdc1dd0a185aba6670408e403a05f9303b82772e5072dd160c29cf1490a9ff"
 metafile = true
 
 [[files]]
