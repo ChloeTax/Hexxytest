@@ -90,11 +90,6 @@ hash = "9aad0aeed9cb635aa6e1c96880f3eefb15c319dd3d38e6731ac2fc41d50a4adc"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "cbb78679ef82eb1e935fcf843d6ccd38213dbb52f4bf8cad42a760375596e9b3"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
 metafile = true
@@ -107,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "52482ce55e1507571ecdb829bddd431de9f7739b79c24b9e3ce8a102744dd227"
 metafile = true
 
 [[files]]
@@ -257,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/create-track-map.pw.toml"
 hash = "11dcef38596a6c3594f8c07ad8fb1b4dfe4d3b48ff34c4394811b7ebb366f640"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "ee9e09eb59f4cdde1edc9442e7c2c36f995c7365f8aca2b7dcfbc58b50a8db49"
 metafile = true
 
 [[files]]
