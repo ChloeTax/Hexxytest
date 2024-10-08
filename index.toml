@@ -100,6 +100,11 @@ hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "ededb5f6acc81df09989c2bd2e738413372638d66372af51543d7e7cbc2a049b"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
@@ -909,6 +914,11 @@ hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
+file = "mods/spirit.pw.toml"
+hash = "2b5eaf88e6214319a6339ac81a2aa8e03262fae3656cc01c40991575bb5129e3"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
 metafile = true
@@ -1001,6 +1011,11 @@ metafile = true
 [[files]]
 file = "mods/vinurl.pw.toml"
 hash = "a9fdc1dd0a185aba6670408e403a05f9303b82772e5072dd160c29cf1490a9ff"
+metafile = true
+
+[[files]]
+file = "mods/vitalize.pw.toml"
+hash = "ec561648b8bc606f603a15567e3df5ccdd34e26f61098fa5f4525e102d248f4b"
 metafile = true
 
 [[files]]
