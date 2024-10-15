@@ -495,8 +495,8 @@ hash = "67a6708514f1adb7cc9d80e23240ef6febe092d324903c197ceba096dfa5fd1b"
 metafile = true
 
 [[files]]
-file = "mods/hexbyte-fabric-1.19.2-0.0.1.jar"
-hash = "45f101f0855a20dd4dbc95b2bfa5ae28c729227d6d96732135e099f98bb5801b"
+file = "mods/hexbyte-fabric-1.19.2-0.0.2.jar"
+hash = "231565dd6da67ce06eecf5bc678659393528bcf584a4eeb704cd1b5ed1a70cdd"
 
 [[files]]
 file = "mods/hexcellular.pw.toml"
