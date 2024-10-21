@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexfaster.pw.toml"
-hash = "64a9a3c889e6eeb7f0109df96c977c2acb3116ffb9d07ad1fdf3299929157e72"
+hash = "9b7e22c0a637a58c3a67976bd681969e30648645c8e97f26218c7c40f3180281"
 metafile = true
 
 [[files]]
