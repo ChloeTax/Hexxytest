@@ -3,11 +3,11 @@ filename = "xlpackets-1.0.4-1.19.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SeCuopwJ/versions/xCDaTaTF/xlpackets-1.0.4-1.19.x.jar"
+url = "https://cdn.modrinth.com/data/SeCuopwJ/versions/Y9sm9hZa/xlpackets-1.0.4-1.19.x.jar"
 hash-format = "sha1"
-hash = "ee8f4f6129ca50da1e74ff5f9c6562a7203b9786"
+hash = "952663e6794cffa929c445739888d38534a28e14"
 
 [update]
 [update.modrinth]
 mod-id = "SeCuopwJ"
-version = "xCDaTaTF"
+version = "Y9sm9hZa"

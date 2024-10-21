@@ -1060,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/xxl-packets.pw.toml"
-hash = "81986b313364223589032e4ae6ebc9433e48e6546ac5c25a66dc9bd54300acf2"
+hash = "2012d6ae3c84c7ac07e30e36c549cc80266d633f82ab6a709655ee5dbd863270"
 metafile = true
 
 [[files]]
