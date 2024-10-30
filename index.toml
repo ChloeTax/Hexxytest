@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "884752a3b3260d08d8f30fe13d8b9293fd779b545be3c914cb229cf0d6703dfb"
+hash = "6b192a97f0e261f5120bb00a0ef93b6698dbe81d53149df832ca121e7cadbc81"
 metafile = true
 
 [[files]]
