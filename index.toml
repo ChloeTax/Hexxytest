@@ -5,6 +5,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "466fea37964c89c3f9f7c2f7dcb49f7d38341d26b36b0f07b42f89aa1fbcc7d9"
 
 [[files]]
+file = "mods/.chat-calc.pw.toml.swp"
+hash = "1ae9f464a65b4465637013b4b75dc67d3fa561e9d8cec254a505450265d4d67f"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
@@ -137,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
+metafile = true
+
+[[files]]
+file = "mods/chat-calc.pw.toml"
+hash = "e171a96405e5bb972bca592f3c0133c4a61cd2d707ae38c04c468f3f2b64f6d4"
 metafile = true
 
 [[files]]
@@ -759,6 +768,11 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/notes.pw.toml"
+hash = "aa363057d41524108801bf0c7dd0ab7973e0dea7798ac721c7730c5065ce43e5"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "87857d482a7d442c21384f5762bd7e51ad6ee1bda30f01b206dfa2694ca9c8ff"
 metafile = true
@@ -970,7 +984,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
-hash = "d5fac75f8dcf084aeb2d0eabb9502e1466499b5f59e45e7d1b1526c1fdbe9741"
+hash = "3b0b9c878aa226a994003dfbb0e1a8af9686d08732975b764dcd286d4954ae00"
 metafile = true
 
 [[files]]
@@ -1031,11 +1045,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "2e7bb3b4927321974a8b2b1b42458e74dfa467fc9436f5c9e450141fc6a973da"
-metafile = true
-
-[[files]]
-file = "mods/watson.pw.toml"
-hash = "f7894008028c7c456e02f34ced7aec2a3e2b455ddb1be4682b12021e746b4370"
 metafile = true
 
 [[files]]
