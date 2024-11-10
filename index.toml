@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexstuff.pw.toml"
-hash = "cda5f451281727d313ee7478e7a1a6da8deaa604712cb9b6894042549e3eb1f1"
+hash = "98d061a49c02f52f21c37a286fd02a397c25e62618f08e2673cffb86f28cea87"
 metafile = true
 
 [[files]]
