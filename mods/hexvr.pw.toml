@@ -1,13 +1,13 @@
 name = "HexVR"
-filename = "HexVR 1.5.0 [FABRIC].jar"
+filename = "HexVR-1.5.1 [FABRIC 1.19.2].jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JGVJRpis/versions/741aLeKA/HexVR%201.5.0%20%5BFABRIC%5D.jar"
+url = "https://cdn.modrinth.com/data/JGVJRpis/versions/qgapgMTc/HexVR-1.5.1%20%5BFABRIC%201.19.2%5D.jar"
 hash-format = "sha1"
-hash = "86b1686cbf5b18dd4589f4350973deba3ad7fbf1"
+hash = "4caa16a61b00d70052568df5de7a6d658adc9fb2"
 
 [update]
 [update.modrinth]
 mod-id = "JGVJRpis"
-version = "741aLeKA"
+version = "qgapgMTc"
