@@ -918,6 +918,11 @@ hash = "2a4bf64250000eb77f1f1624baa54a5bb4425b4053d49c1efc49b177b1d424f9"
 metafile = true
 
 [[files]]
+file = "mods/skyes-peripherals.pw.toml"
+hash = "862b2f5276a5d2a7821427832fc72bbf71dbd57de0e9378b08f6c2be3207028f"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "d99b3f5a8d3dc1acfdb7083b5a5180ac39b7a32ba5d70f98c15579bf6864a26a"
 metafile = true

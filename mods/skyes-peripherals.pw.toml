@@ -1,0 +1,7 @@
+name = "skyes-peripherals"
+filename = "skyes-peripherals-0.1.0.jar"
+
+[download]
+url = "https://maven.skye.vg/vg/skye/skyes-peripherals/0.1.0/skyes-peripherals-0.1.0.jar"
+hash-format = "sha256"
+hash = "e73660c34ea73f545d9e22f9a7323abe9066b85123198ba5b9f60eada05d0261"
