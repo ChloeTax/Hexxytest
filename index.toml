@@ -828,13 +828,8 @@ hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
-file = "mods/qkl-core.pw.toml"
-hash = "9744be5a1bdcb951ae96593c2c33ce99f05795f5535a7e5e165ac812b2dda6cd"
-metafile = true
-
-[[files]]
 file = "mods/qkl.pw.toml"
-hash = "8b397d06fd6575b8e44c720cab46613ae1e7ab054f1a335cd4fe3bcc57d53ac0"
+hash = "b11210c8a3e3de43261ff5f322188e4434e6342d861eb2ed69867bf3045dd902"
 metafile = true
 
 [[files]]
