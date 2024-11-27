@@ -1,7 +1,7 @@
 name = "hexfaster"
-filename = "hexfaster-3.0.0.jar"
+filename = "hexfaster-4.0.1.jar"
 
 [download]
-url = "https://github.com/vgskye/hexfaster/releases/download/3.0.0/hexfaster-3.0.0.jar"
+url = "https://github.com/vgskye/hexfaster/releases/download/4.0.1/hexfaster-4.0.1.jar"
 hash-format = "sha256"
-hash = "8644f2c85424164125fea51b7f662bb024889bc78326344b369567744ae2dfd5"
+hash = "c4923f878a87638ac36109144cfea61159b02a134d19ba323b2a605decdbceda"
