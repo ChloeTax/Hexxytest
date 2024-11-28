@@ -1,0 +1,13 @@
+name = "Hexcassettes"
+filename = "hexcassettes-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y7OyTnxi/versions/QIWBav34/hexcassettes-1.0.0.jar"
+hash-format = "sha1"
+hash = "80cbf49c6d7a8174d12140b80232588e388ba8a8"
+
+[update]
+[update.modrinth]
+mod-id = "Y7OyTnxi"
+version = "QIWBav34"

@@ -509,6 +509,11 @@ file = "mods/hexbyte-fabric-1.19.2-0.0.3.jar"
 hash = "2b5819704a257097848bbd351264c948bbe44116924e4b0e7d1e7bc3c4c1dc58"
 
 [[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "39bf660f532d8c9fd069a5a9ce8cef44c6b875d5280c7bda6f8e6b3ef777833d"
+metafile = true
+
+[[files]]
 file = "mods/hexcellular.pw.toml"
 hash = "67030d8ed259c6ec6e7918d56f8ff9702795676b077cca2abb10628ce2272ecb"
 metafile = true
