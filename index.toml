@@ -395,6 +395,10 @@ hash = "d77bd4aaf304323614808767dd5265368b5becdc7916bb303dda63d774ace5c9"
 metafile = true
 
 [[files]]
+file = "mods/extendedbogeys-0.5.0+mc1.19.2-0.5.1.f+fabric-patch-.jar"
+hash = "bcd263328473e5356edc75174e10f6e2b58ec455cd35bbc37198f78976fbaf37"
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "9ca0882b3bbe3285b165c8cdb0288cb5d252897544c8235147a8a6db811d1a50"
 metafile = true
