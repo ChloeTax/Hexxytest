@@ -793,9 +793,8 @@ hash = "87857d482a7d442c21384f5762bd7e51ad6ee1bda30f01b206dfa2694ca9c8ff"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut.pw.toml"
-hash = "c62df6b51b7a47153d6e40c88bbd112c45ec9588e71fb2ce936e325283492821"
-metafile = true
+file = "mods/oneironaut-fabric-1.19.2-0.3.5.jar"
+hash = "1219356b53f31e830f7da0e5e7137129478b1e4a8e3706214d1d0e38b50bb00b"
 
 [[files]]
 file = "mods/origins.pw.toml"
