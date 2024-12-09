@@ -434,9 +434,8 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "f71aea5fb58a8fb62e9102f080f951d5904e974b16e8327d8804b415a46b496b"
-metafile = true
+file = "mods/figura-0.1.5-rc.4+1.19.2-fabric-mc.jar"
+hash = "613663a900fb457c8552e9eeb9ddd252bf9776e61a75a2fd3e03dd1312f77587"
 
 [[files]]
 file = "mods/findme.pw.toml"

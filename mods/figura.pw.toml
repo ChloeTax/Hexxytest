@@ -1,7 +1,0 @@
-name = "figura"
-filename = "figura-0.1.5-rc.1+1.19.2-fabric-mc.jar"
-
-[download]
-url = "https://github.com/FiguraMC/Figura/releases/download/0.1.5-rc.1/figura-0.1.5-rc.1+1.19.2-fabric-mc.jar"
-hash-format = "sha256"
-hash = "96787d5ed0108f5b9f97e9ce16158500e68f58b4b8d4a87224603a44fcf4906f"
